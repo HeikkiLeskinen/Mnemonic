@@ -1,0 +1,602 @@
+[
+    {
+        "number": 0.0,
+        "nmenomic": " OO ",
+        "subject": "Ozzy Osborne",
+        "verb": "singing \"dreamer\" on the ice"
+    },
+    {
+        "number": 1.0,
+        "nmenomic": " OA ",
+        "subject": "Rosie O'Donell (Overeaters Anonymous)",
+        "verb": "eating iceream... sobbing"
+    },
+    {
+        "number": 2.0,
+        "nmenomic": " OB ",
+        "subject": "Conan O'Brien, knocking over the microphone",
+        "verb": "knocking over the microphone"
+    },
+    {
+        "number": 3.0,
+        "nmenomic": " OC ",
+        "subject": "Benjamin McKenzie from OC",
+        "verb": "leaving in a car while Hallelujah is playing"
+    },
+    {
+        "number": 4.0,
+        "nmenomic": " OD ",
+        "subject": "Jimi Hendrix, shooting up heroin (OD'ing)",
+        "verb": null
+    },
+    {
+        "number": 5.0,
+        "nmenomic": " OE ",
+        "subject": " J.R.R. Tolkien",
+        "verb": "struggling to hold complete unabridged OED  (Old English and Oxford English Dictionary)"
+    },
+    {
+        "number": 6.0,
+        "nmenomic": " OS ",
+        "subject": "Richard Stallman",
+        "verb": "giving \"boy scout salute\" as St. Ignucius, (Operating System)"
+    },
+    {
+        "number": 7.0,
+        "nmenomic": " OG ",
+        "subject": "ICE T (Original Gangsta)",
+        "verb": "in a drive-by shooting"
+    },
+    {
+        "number": 8.0,
+        "nmenomic": " OH ",
+        "subject": "Meg Ryan in When Harry Met Sally",
+        "verb": "faking an orgasm (OH!)"
+    },
+    {
+        "number": 9.0,
+        "nmenomic": " ON ",
+        "subject": "Finnish DNA commerial with a girl",
+        "verb": "going \"El\u00e4m\u00e4 On!\""
+    },
+    {
+        "number": 10.0,
+        "nmenomic": " AO ",
+        "subject": "Great Prophet Zarquon (The Hitch Hiker's Guide to the Galaxy) ",
+        "verb": "nervously checking his watch (Alpha & Omega)"
+    },
+    {
+        "number": 11.0,
+        "nmenomic": " AA ",
+        "subject": "\"Bill\" (founder of Alcoholics Anonymous)",
+        "verb": "faceless and drinking booze"
+    },
+    {
+        "number": 12.0,
+        "nmenomic": " AB ",
+        "subject": "ABBA",
+        "verb": "lip-syncing and dancing (\"Dancing Queen\")"
+    },
+    {
+        "number": 13.0,
+        "nmenomic": " AC ",
+        "subject": "Angus Young (AC/DC)",
+        "verb": " jumping a cross the stage with a guitar"
+    },
+    {
+        "number": 14.0,
+        "nmenomic": " AD ",
+        "subject": "Jesus",
+        "verb": "being crucified (Anno Domini)"
+    },
+    {
+        "number": 15.0,
+        "nmenomic": " AE ",
+        "subject": "Albert Einstein",
+        "verb": "writing on a blackboard"
+    },
+    {
+        "number": 16.0,
+        "nmenomic": " AS ",
+        "subject": "Anakin Skywalker",
+        "verb": "steering a racer bod"
+    },
+    {
+        "number": 17.0,
+        "nmenomic": " AG ",
+        "subject": "Art Garfunkel",
+        "verb": "singing his heart out with head thrown back (\"Bridge Over Troubled Water\")"
+    },
+    {
+        "number": 18.0,
+        "nmenomic": " AH ",
+        "subject": "Adolf Hitler",
+        "verb": "sieg-heiling"
+    },
+    {
+        "number": 19.0,
+        "nmenomic": " AN ",
+        "subject": "Andy Griffith",
+        "verb": "Standing up for \"objection\" "
+    },
+    {
+        "number": 20.0,
+        "nmenomic": " BO ",
+        "subject": "Buddha",
+        "verb": "sitting cross-legged under the Bo tree"
+    },
+    {
+        "number": 21.0,
+        "nmenomic": " BA ",
+        "subject": "Bill Atkinson ",
+        "verb": "breaking into pixels"
+    },
+    {
+        "number": 22.0,
+        "nmenomic": " BB ",
+        "subject": "Bilbo Baggins",
+        "verb": "puffing pipe in bare feet"
+    },
+    {
+        "number": 23.0,
+        "nmenomic": " BC ",
+        "subject": "Bill Cosby",
+        "verb": "eating pudding"
+    },
+    {
+        "number": 24.0,
+        "nmenomic": " BD ",
+        "subject": "Bob Dylan",
+        "verb": "singing a protest song"
+    },
+    {
+        "number": 25.0,
+        "nmenomic": " BE ",
+        "subject": "Billy Elliot",
+        "verb": "dancing ballet"
+    },
+    {
+        "number": 26.0,
+        "nmenomic": " BS ",
+        "subject": "Bart Simpson",
+        "verb": "riding a skateboard"
+    },
+    {
+        "number": 27.0,
+        "nmenomic": " BG ",
+        "subject": "Brian Griffin",
+        "verb": "mixing a martini"
+    },
+    {
+        "number": 28.0,
+        "nmenomic": " BH ",
+        "subject": "Beverly Hills",
+        "verb": "valley girls shouting \"shut up!\""
+    },
+    {
+        "number": 29.0,
+        "nmenomic": " BN ",
+        "subject": "Ben Franklin",
+        "verb": "flying a kite"
+    },
+    {
+        "number": 30.0,
+        "nmenomic": " CO ",
+        "subject": "Cowardly Lion",
+        "verb": "bashfully fidgeting with his tail"
+    },
+    {
+        "number": 31.0,
+        "nmenomic": " CA ",
+        "subject": "Charles Atlas",
+        "verb": "lifting weights over his head"
+    },
+    {
+        "number": 32.0,
+        "nmenomic": " CB ",
+        "subject": "Charlie Brown",
+        "verb": "missing the football"
+    },
+    {
+        "number": 33.0,
+        "nmenomic": " CC ",
+        "subject": "Charlie Chaplin",
+        "verb": "twirling his cane and waddling"
+    },
+    {
+        "number": 34.0,
+        "nmenomic": " CD ",
+        "subject": "Celine Dion",
+        "verb": "singing \"My heart will go on\" on a deck of titanic"
+    },
+    {
+        "number": 35.0,
+        "nmenomic": " CE ",
+        "subject": "Clint Eastwood",
+        "verb": "pointing with a Magnum 44 in Dirty Harry"
+    },
+    {
+        "number": 36.0,
+        "nmenomic": " CS ",
+        "subject": "Buzz Lightyear from Toy Story",
+        "verb": "stepping into the Wardrobe"
+    },
+    {
+        "number": 37.0,
+        "nmenomic": " CG ",
+        "subject": null,
+        "verb": "blasting off with a jetpack"
+    },
+    {
+        "number": 38.0,
+        "nmenomic": " CH ",
+        "subject": "Charlston Heston",
+        "verb": "doing gay Micheal Angelo"
+    },
+    {
+        "number": 39.0,
+        "nmenomic": " CN ",
+        "subject": "Chuck Norris",
+        "verb": "doing a high kick in texas ranger uniform"
+    },
+    {
+        "number": 40.0,
+        "nmenomic": " DO ",
+        "subject": "Fred Flintstone",
+        "verb": "breaking rocks in the quarry (Yabba dabba DOo!)"
+    },
+    {
+        "number": 41.0,
+        "nmenomic": " DA ",
+        "subject": "Douglas Adams",
+        "verb": "putting a Babelfish into his ear"
+    },
+    {
+        "number": 42.0,
+        "nmenomic": " DB ",
+        "subject": "David Blaine",
+        "verb": "levitation with balluchi levitation"
+    },
+    {
+        "number": 43.0,
+        "nmenomic": " DC ",
+        "subject": "George Washington",
+        "verb": "chopping down cherry tree (Washington DC)"
+    },
+    {
+        "number": 44.0,
+        "nmenomic": " DD ",
+        "subject": "Fox Mulder (David Duchovny)",
+        "verb": "abducted by Aliens"
+    },
+    {
+        "number": 45.0,
+        "nmenomic": " DE ",
+        "subject": "Dr. Daniel E. Noble",
+        "verb": "mixing dynamite"
+    },
+    {
+        "number": 46.0,
+        "nmenomic": " DS ",
+        "subject": "Anime girl",
+        "verb": "playing nintendo DS"
+    },
+    {
+        "number": 47.0,
+        "nmenomic": " DG ",
+        "subject": "Dorian Gray ",
+        "verb": "destroying a portrait of himself"
+    },
+    {
+        "number": 48.0,
+        "nmenomic": " DH ",
+        "subject": "D. H. Lawrence",
+        "verb": "running away from angry feminists"
+    },
+    {
+        "number": 49.0,
+        "nmenomic": " DN ",
+        "subject": "David Niven",
+        "verb": "holding the (Pink Pather) jewel"
+    },
+    {
+        "number": 50.0,
+        "nmenomic": " EO ",
+        "subject": "Arnold Schwarzenegger",
+        "verb": "arm restling with a devil in (End of Days)"
+    },
+    {
+        "number": 51.0,
+        "nmenomic": " EA ",
+        "subject": "Kane (Electronic Arts) ",
+        "verb": "holding a speech on a nod podium"
+    },
+    {
+        "number": 52.0,
+        "nmenomic": " EB ",
+        "subject": "Eric Bana (Hecktor)",
+        "verb": "challenging Akilles in Troy"
+    },
+    {
+        "number": 53.0,
+        "nmenomic": " EC ",
+        "subject": "Eric Clapton",
+        "verb": "snorting heroine on his guitar"
+    },
+    {
+        "number": 54.0,
+        "nmenomic": " ED ",
+        "subject": "\"Eddie the head\"",
+        "verb": "playing a violin with a silver dress"
+    },
+    {
+        "number": 55.0,
+        "nmenomic": " EE ",
+        "subject": "Emilio Estavez",
+        "verb": "shooting a candle stands"
+    },
+    {
+        "number": 56.0,
+        "nmenomic": " ES ",
+        "subject": "Edwards Scissorhands",
+        "verb": "trimming a bush"
+    },
+    {
+        "number": 57.0,
+        "nmenomic": " EG ",
+        "subject": "English man",
+        "verb": "having his morning cup of earl grey Earl Grey"
+    },
+    {
+        "number": 58.0,
+        "nmenomic": " EH ",
+        "subject": "Elizabeth Hurley",
+        "verb": "playing chess with God in Bedazzled"
+    },
+    {
+        "number": 59.0,
+        "nmenomic": " EN ",
+        "subject": "Ed Norton",
+        "verb": "beating himself up in Fight Club"
+    },
+    {
+        "number": 60.0,
+        "nmenomic": " SO ",
+        "subject": "Brad Pit",
+        "verb": "opening a box of SOap in fightclub"
+    },
+    {
+        "number": 61.0,
+        "nmenomic": " SA ",
+        "subject": "James Bond (Secret Agent)",
+        "verb": "flirting with moneypenny"
+    },
+    {
+        "number": 62.0,
+        "nmenomic": " SB ",
+        "subject": "Sam Beckett (Quantum Leap)",
+        "verb": "\"leaping\""
+    },
+    {
+        "number": 63.0,
+        "nmenomic": " SC ",
+        "subject": "Donald Sutherland (Space Cowboys)",
+        "verb": "taking the eye test by heart"
+    },
+    {
+        "number": 64.0,
+        "nmenomic": " SD ",
+        "subject": "Snoop Dogg",
+        "verb": "smoking a joint"
+    },
+    {
+        "number": 65.0,
+        "nmenomic": " SE ",
+        "subject": "Apu (The Simpsons)",
+        "verb": "pouring a Skwishee (Seven Eleven)"
+    },
+    {
+        "number": 66.0,
+        "nmenomic": " SS ",
+        "subject": "Samantha Stevens (Bewitched)",
+        "verb": "wiggling her nose"
+    },
+    {
+        "number": 67.0,
+        "nmenomic": " SG ",
+        "subject": "Sam Gamgee (The Lord of the Rings)",
+        "verb": "planting a tree"
+    },
+    {
+        "number": 68.0,
+        "nmenomic": " SH ",
+        "subject": "Sparrowhawk (A Wizard of Earthsea)",
+        "verb": "parleying with a dragon"
+    },
+    {
+        "number": 69.0,
+        "nmenomic": " SN ",
+        "subject": "Soup Nazi",
+        "verb": "shouting \"no more soup for you!\""
+    },
+    {
+        "number": 70.0,
+        "nmenomic": " GO ",
+        "subject": "God (bearded sky-god)",
+        "verb": "throwing thunderbolt"
+    },
+    {
+        "number": 71.0,
+        "nmenomic": " GA ",
+        "subject": "Ray Charles",
+        "verb": "playing piano and singing (\"GeorgiA\")"
+    },
+    {
+        "number": 72.0,
+        "nmenomic": " GB ",
+        "subject": "George W. Bush",
+        "verb": "smirking horribly like looking directly at the sun"
+    },
+    {
+        "number": 73.0,
+        "nmenomic": " GC ",
+        "subject": "Graham Chapman",
+        "verb": "throwing open windows and exposing himself (scene from The Life of Brian)"
+    },
+    {
+        "number": 74.0,
+        "nmenomic": " GD ",
+        "subject": "Gandhi",
+        "verb": "spinning on a pray wheel"
+    },
+    {
+        "number": 75.0,
+        "nmenomic": " GE ",
+        "subject": "Thomas Edison (founded General Electric)",
+        "verb": "lighting a lamp"
+    },
+    {
+        "number": 76.0,
+        "nmenomic": " GS ",
+        "subject": "Smeagol-Gollum (The Lord of the Rings)",
+        "verb": " falling into lava with the One Ring"
+    },
+    {
+        "number": 77.0,
+        "nmenomic": " GG ",
+        "subject": "Gandalf the Grey (The Lord of the Rings)",
+        "verb": "shouting \"you shall not pass\""
+    },
+    {
+        "number": 78.0,
+        "nmenomic": " GH ",
+        "subject": "Gene Hackman",
+        "verb": "in a nuclear sub command deck"
+    },
+    {
+        "number": 79.0,
+        "nmenomic": " GN ",
+        "subject": "Steve Griffin",
+        "verb": "doing the fake laughter"
+    },
+    {
+        "number": 80.0,
+        "nmenomic": " HO ",
+        "subject": "Santa Claus",
+        "verb": "laughing until his belly shakes (HO HO HO!)"
+    },
+    {
+        "number": 81.0,
+        "nmenomic": " HA ",
+        "subject": "Harry Potter",
+        "verb": "casting a stupify spell"
+    },
+    {
+        "number": 82.0,
+        "nmenomic": " HB ",
+        "subject": "Marilyn Monroe",
+        "verb": "singing Happy Birthday to the president"
+    },
+    {
+        "number": 83.0,
+        "nmenomic": " HC ",
+        "subject": "Antti (Hard Code)",
+        "verb": "benchpressing 200kg in home jim"
+    },
+    {
+        "number": 84.0,
+        "nmenomic": " HD ",
+        "subject": "Seppo",
+        "verb": "starting his Harley-Davidson and driving off"
+    },
+    {
+        "number": 85.0,
+        "nmenomic": " HE ",
+        "subject": "He Man",
+        "verb": "raising his sword to the skyes"
+    },
+    {
+        "number": 86.0,
+        "nmenomic": " HS ",
+        "subject": "Homer Simpson (The Simpsons)",
+        "verb": "gobbling donuts"
+    },
+    {
+        "number": 87.0,
+        "nmenomic": " HG ",
+        "subject": "Mercury (Greek god)",
+        "verb": "flying with winged sandals (Hg chemical symbol for mercury)"
+    },
+    {
+        "number": 88.0,
+        "nmenomic": " HH ",
+        "subject": "Hulk Hogan",
+        "verb": "tearing of his shirt"
+    },
+    {
+        "number": 89.0,
+        "nmenomic": " HN ",
+        "subject": "Han Solo (Star Wars)",
+        "verb": "firing blaster"
+    },
+    {
+        "number": 90.0,
+        "nmenomic": " NO ",
+        "subject": "Dr. No",
+        "verb": "chatting with James Bond across the table"
+    },
+    {
+        "number": 91.0,
+        "nmenomic": null,
+        "subject": "Neil Armstrong",
+        "verb": "stepping onto Moon"
+    },
+    {
+        "number": 92.0,
+        "nmenomic": " NB ",
+        "subject": "Norman Bates",
+        "verb": " slicing the shower curtain in half"
+    },
+    {
+        "number": 93.0,
+        "nmenomic": " NC ",
+        "subject": "Nicolas Cage",
+        "verb": "pointing stating guilty (Ghost Rider)"
+    },
+    {
+        "number": 94.0,
+        "nmenomic": " ND ",
+        "subject": "Napolean Dynomite",
+        "verb": "vote pedro dance scene"
+    },
+    {
+        "number": 95.0,
+        "nmenomic": " NE ",
+        "subject": "Neelix (Star Trek)",
+        "verb": "cooking alien food"
+    },
+    {
+        "number": 96.0,
+        "nmenomic": " NS ",
+        "subject": "Hiro Protagonist (Snow Crash)",
+        "verb": "cutting someone to bits with a katana (Neal Stephenson, author)"
+    },
+    {
+        "number": 97.0,
+        "nmenomic": " NG ",
+        "subject": "Nero Germanicus",
+        "verb": "playing with matches"
+    },
+    {
+        "number": 98.0,
+        "nmenomic": " NH ",
+        "subject": "Natasha Henstridge",
+        "verb": "piercing a guys head with an alien tongue"
+    },
+    {
+        "number": 99.0,
+        "nmenomic": " NN ",
+        "subject": "Nick Nolte",
+        "verb": "taking electroshock in Hulk"
+    }
+]
